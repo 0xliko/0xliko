@@ -43,12 +43,11 @@ Platform&Tools
         <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jsgrowing315&layout=compact" /></a>
     </p>
   
-  Here are some ideas to get you started:
-    - 🔭 I’m currently working on Sostav project<br />
-    - 🌱 I’m currently playing with <a href="https://github.com/vuejs/vue-next"><img src="https://vuejs.org/images/logo.png" width="30" height="30" />Vue-next</a><br />
-    - 👯 I’m looking to collaborate on <a href="https://github.com/iamkun/dayjs"><img src="https://user-images.githubusercontent.com/17680888/39081119-3057bbe2-456e-11e8-862c-646133ad4b43.png" width="30" height="20" />DayJS</a><br />
-    - 🤔 I’m looking for help with <a href="https://angular.io/">Angular</a><br />
-    - 💬 Ask me about Javascript, Vue, React, React Native, php, Laravel, node.js and more... 😉<br />
-    - 📫 How to reach me: jsgrowing315@outlook.com longines0924@gmail.com<br />
-    - ⚡ Fun fact: I am keen on fishing 🎣🐟🐠🦈<br />
+  My skill set:
+    
+    Node.js/Express(Jade,Ejs)/Koa/Socket.io,Discord.js , Google+Discord+Steam oAuth, PHP/CMS/Laravel,Postgresql/Mysql/Mongodb/Typeorm,Firebase
+    React/Redux/Typescript/Vue/Angular/GraphQL/TailWind/Next/Nuxt/Electron Webpack/Grunt/Babel/Eslint/Stylelint/Prettier/Code Obfuscator
+    Web3/DApp/Dex/Smart Contract/NFT
+    Asp.net, blazor, Maven, spring,CEF project, Video Streaming, Image processing, System-level c++ Application
+ Portfolio: https://jsgrowin-portfolio.herokuapp.com/(https://jsgrowin-portfolio.herokuapp.com/)
     
