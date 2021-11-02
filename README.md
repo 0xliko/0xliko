@@ -45,9 +45,11 @@ Platform&Tools
   
   My skill set:
     
-    Node.js/Express(Jade,Ejs)/Koa/Socket.io,Discord.js , Google+Discord+Steam oAuth, PHP/CMS/Laravel,Postgresql/Mysql/Mongodb/Typeorm,Firebase
-    React/Redux/Typescript/Vue/Angular/GraphQL/TailWind/Next/Nuxt/Electron Webpack/Grunt/Babel/Eslint/Stylelint/Prettier/Code Obfuscator
+    Node.js/Express(Jade,Ejs)/Koa/Socket.io,Discord.js , Google+Discord+Steam oAuth, 
+    PHP/CMS/Laravel,Postgresql/Mysql/Mongodb/Typeorm,Firebase
+    React/Redux/Typescript/Vue/Angular/GraphQL/TailWind/Next/Nuxt/Electron 
+    Webpack/Grunt/Babel/Eslint/Stylelint/Prettier/Code Obfuscator
     Web3/DApp/Dex/Smart Contract/NFT
     Asp.net, blazor, Maven, spring,CEF project, Video Streaming, Image processing, System-level c++ Application
- Portfolio: https://jsgrowin-portfolio.herokuapp.com/(https://jsgrowin-portfolio.herokuapp.com/)
+ Portfolio: https://jsgrowin-portfolio.herokuapp.com
     
