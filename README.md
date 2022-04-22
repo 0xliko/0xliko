@@ -26,7 +26,7 @@ I am Lyu Jin, full stack software engineer with 10 years of experience. Recently
 ### DApp development
 <a target="_blank" href="https://million-tokens.vercel.app/#/" ><kbd><img height="120" width="240" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/million.png?raw=true" ><br/>Million Tokens</kbd></a>
 <a target="_blank" href="https://thexdao.com/#/" ><kbd><img height="120" width="240" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/thexdao.png?raw=true" ><br/>AMM +Yield Aggregator on Fantom Chain</kbd></a>
-<a target="_blank" href="https://slowmosloth.club/" ><kbd><img height="120" width="240" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/wordles.png?raw=true" ><br/>NFT Mint Website</kbd></a>
+<a target="_blank" href="https://wordles.io/" ><kbd><img height="120" width="240" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/wordles.png?raw=true" ><br/>NFT Mint Website</kbd></a>
 <a target="_blank" href="https://crypto-change.herokuapp.com/" ><kbd><img height="120" width="240" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/crypto.png?raw=true" ><br/>Crypto Swap using best router</kbd></a>
 
 ### Web app development
