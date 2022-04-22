@@ -50,11 +50,11 @@ I am Lyu Jin, full stack software engineer with 10 years of experience. Recently
 
 # Contact me.
 
-<a href="mailto:truepai415@gmail.com" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-mail-48.png" alt="mail" /></a>
+<a href="mailto:truepai415@gmail.com" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-mail-48.png" alt="mail" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/jinhang-lyu/" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-linkedin-48.png" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/jinhang-lyu/" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-linkedin-48.png" alt="linkedin" /></a>
 &nbsp;
-<a href="https://t.me/longines0924" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-telegram-app-48.png" alt="telegram" /></a>
+<a href="https://t.me/longines0924" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-telegram-app-48.png" alt="telegram" /></a>
 &nbsp;
-<a href="https://discordapp.com/users/958796119079518218" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-discord-bubble-48.png" alt="discord" /></a>
+<a href="https://discordapp.com/users/958796119079518218" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-discord-bubble-48.png" alt="discord" /></a>
 
