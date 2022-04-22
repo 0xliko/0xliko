@@ -25,7 +25,7 @@ I am Lyu Jin, full stack software engineer with 10 years of experience. Recently
 
 ### DApp development
 <a target="_blank" style="margin:5px" href="https://million-tokens.vercel.app/#/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/million.png?raw=true" ><br/>Million Tokens</kbd></a>
-<a target="_blank" style="margin:5px" href="https://thexdao.com/#/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/thexdao.png?raw=true" ><br/>AMM +Yield Aggregator on Fantom Chain</kbd></a>
+<a target="_blank" style="margin:5px" href="https://thexdao.com/#/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/thexdao.png?raw=true" ><br/>AMM +Yield Aggregator on Fantom</kbd></a>
 <a target="_blank" style="margin:5px" href="https://wordles.io/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/wordles.png?raw=true" ><br/>NFT Mint Website</kbd></a>
 <a target="_blank" style="margin:5px" href="https://crypto-change.herokuapp.com/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/crypto.png?raw=true" ><br/>Crypto Swap using best router</kbd></a>
 
@@ -36,7 +36,7 @@ I am Lyu Jin, full stack software engineer with 10 years of experience. Recently
 <a target="_blank" style="margin:5px" href="https://jsgrowin-portfolio.herokuapp.com/samples/polytope/index.html" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/polytope.png?raw=true" ><br/>C600 Polytope Animation</kbd></a>
 
 ### Web app development
-<a target="_blank" style="margin:5px" href="https://app.cseval.com/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/cse_vue.png?raw=true" ><br/>Vue Sports Events E-Commerce Project</kbd></a>
+<a target="_blank" style="margin:5px" href="https://app.cseval.com/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/cse_vue.png?raw=true" ><br/>Vue Sports Events E-Commerce</kbd></a>
 <a target="_blank" style="margin:5px" href="https://panenkatv.com/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/wordpress.png?raw=true" ><br/>Wordpress Theme Customization</kbd></a>
 <a target="_blank" style="margin:5px" href="https://game-owivntwoka-ue.a.run.app/" ><kbd><img height="120" width="200" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/crypto_mafia.png?raw=true" ><br/>Solana Mafia Game</kbd></a>
 
