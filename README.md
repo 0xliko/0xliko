@@ -1,55 +1,60 @@
-<h1 align="center"><b>LyuJin</b><br>Agile Full Stack Developer</h1>
-
-<a target="blank" href="https://profile-counter.glitch.me/jsgrowing315/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/jsgrowing315/count.svg" /></a>
-<h3 align="center">
-Platform&Tools
-</h3>
-
-<div align="center">
-
-[![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![VSCode](https://img.shields.io/badge/vscode-VSCode-green)](https://code.visualstudio.com/download)
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)](https://www.ecma-international.org/)
-[![JQuery](https://img.shields.io/badge/-JQuery-8BC34A?style=flat-square&logo=jQuery&logoColor=ffffff)](https://jquery.com/)
-[![Sass](https://img.shields.io/badge/-Sass-00BCD4?style=flat-square&logo=sass&logoColor=ffffff)](https://www.sass.hk/)
-[![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://www.webpackjs.com/)
-[![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
-
-[![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.org/)
-[![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=ffffff)](https://angular.org/)
-[![Tailwind](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=ffffff)](https://vuejs.org/)
-
-[![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=ffffff)]()
-[![c#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=ffffff)]()
-[![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=ffffff)]()
+# Creative Software Engineer
 
 
-</div>
+## About Me
+I am Lyu Jin, full stack software engineer with 10 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Web3, React.js etc.
 
-<p align="center">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jsgrowing315&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
-</p>
+<br>
 
-  <br>
-    <p>
-        <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jsgrowing315&layout=compact" /></a>
-    </p>
-  
-  My skill set:
-    
-    Node.js/Express(Jade,Ejs)/Koa/Socket.io,Discord.js , Google+Discord+Steam oAuth, 
-    PHP/CMS/Laravel,Postgresql/Mysql/Mongodb/Typeorm,Firebase
-    React/Redux/Typescript/Vue/Angular/GraphQL/TailWind/Next/Nuxt/Electron 
-    Webpack/Grunt/Babel/Eslint/Stylelint/Prettier/Code Obfuscator
-    Web3/DApp/Dex/Smart Contract/NFT
-    Asp.net, blazor, Maven, spring,CEF project, Video Streaming, Image processing, System-level c++ Application
- Portfolio: https://jsgrowin-portfolio.herokuapp.com
-    
+## Skillset
+- Cryptocurrency
+- Smart contracts
+- DeFi
+- NFT marketplace
+- Web3
+- React.js
+- Node.js
+- PHP
+- WebGL/Three.js
+- 2d/3d HTML5 Canvas app
+- HTML5/CSS3/jQuery/Bootstrap/SCSS
+
+<br>
+
+## Portfolio
+
+### DApp development
+<a target="_blank" href="https://million-tokens.vercel.app/#/" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/million.png?raw=true" ><br/>Million Tokens</kbd></a>
+<a target="_blank" href="https://thexdao.com/#/" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/thexdao.png?raw=true" ><br/>AMM +Yield Aggregator on Fantom Chain</kbd></a>
+<a target="_blank" href="https://slowmosloth.club/" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/wordles.png?raw=true" ><br/>NFT Mint Website</kbd></a>
+<a target="_blank" href="https://crypto-change.herokuapp.com/" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/crypto.png?raw=true" ><br/>Crypto Swap using best router</kbd></a>
+
+### Web app development
+<a target="_blank" href="https://github.com/mastre-io/mastre-releases/releases/download/1.0.32/Mastre.Setup.1.0.32.exe" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/electron.png?raw=true" ><br/>Electron Shopify Auto Bot</kbd></a>
+<a target="_blank" href="https://app.cseval.com/" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/cse_vue.png?raw=true" ><br/>Vue Sports Events E-Commerce Project</kbd></a>
+<a target="_blank" href="https://panenkatv.com/" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/wordpress.png?raw=true" ><br/>Wordpress Theme Customization</kbd></a>
+<br/>
+<a target="_blank" href="https://game-owivntwoka-ue.a.run.app/" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/crypto_mafia.png?raw=true" ><br/>Solana Mafia Game</kbd></a>
+<a target="_blank" href="https://three-gallary.vercel.app/" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/three_gallary.png?raw=true" ><br/>Three NFT Gallary</kbd></a>
+<a target="_blank" href="https://jsgrowin-portfolio.herokuapp.com/samples/polytope/index.html" ><kbd><img height="120" src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/polytope.png?raw=true" ><br/>C600 Polytope Animation</kbd></a>
+
+
+<br>
+<br>
+<br>
+
+
+*****
+
+# Contact me.
+
+<a href="mailto:truepai415@gmail.com" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-mail-48.png" alt="mail" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jinhang-lyu/" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-linkedin-48.png" alt="linkedin" /></a>
+&nbsp;
+<a href="https://join.skype.com/invite/rctBCHQUTOfy" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-skype-48.png" alt="skype" /></a>
+&nbsp;
+<a href="https://t.me/cryptoange1" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-telegram-app-48.png" alt="telegram" /></a>
+&nbsp;
+<a href="https://discordapp.com/users/643616946377719808" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/5b8d837b89694dafc7eafaff8235b52c90b0c730/assets/icons8-discord-bubble-48.png" alt="discord" /></a>
+
