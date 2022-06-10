@@ -53,5 +53,5 @@ I am Lyu Jin, full stack software engineer with 10 years of experience. Recently
 &nbsp;
 <a href="https://t.me/longines0924" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-telegram-app-48.png" alt="telegram" /></a>
 &nbsp;
-<a href="https://discordapp.com/users/958796119079518218" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-discord-bubble-48.png" alt="discord" /></a>
+<a href="https://discordapp.com/users/871114801953267712" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-discord-bubble-48.png" alt="discord" /></a>
 
