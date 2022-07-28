@@ -49,7 +49,7 @@ I am Liko Sonexarth, full stack software engineer with 10 years of experience. R
 
 # Contact me.
 
-<a href="mailto:longines0924@gmail.com" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-mail-48.png" alt="mail" /></a>
+<a href="mailto:liko@5bsoftware.com" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-mail-48.png" alt="mail" /></a>
 <a href="https://www.linkedin.com/in/likosonexarth/" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-linkedin-48.png" alt="linkedin" /></a>
 &nbsp;
 <a href="https://t.me/longines0924" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-telegram-app-48.png" alt="telegram" /></a>
