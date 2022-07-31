@@ -2,25 +2,31 @@
 
 
 ## About Me
-I am Liko Sonexarth, full stack software engineer with 10 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Web3, React.js etc.
+I am Liko Sonexarth, full stack software engineer with 8 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Web3, React.js etc.
 
 <br>
 
 ## Skillset
-- Cryptocurrency
+### Blockchain Technology
+```
 - Smart contracts
-- DeFi
+- DeFi,CEX
 - NFT marketplace
 - Web3
-- React.js
-- Node.js
-- PHP
+```
+### Backend 
+```
+- Node.js (Express, Socket.io, Discord.js, Google+Discord+Steam+Telegram oAuth)
+- PHP (Larabel, Wordpress)
+- Mysql, MongoDB, Postgres with Typeorm
+```
+### Frontend
+```
+- React.js, Vue.js, Angular
+- Material UI, Tailwind CSS, Antd, Blueprintjs libraries
 - WebGL/Three.js
 - 2d/3d HTML5 Canvas app
-- HTML5/CSS3/jQuery/Bootstrap/SCSS
-
-<br>
-
+```
 ## Portfolio
 
 ### DApp development
