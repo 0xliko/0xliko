@@ -2,7 +2,7 @@
 
 
 ## About Me
-I am Liko Sonexarth, full stack software engineer with 8 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Web3, React.js etc.
+I am full stack software engineer with 8 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Web3, React.js etc.
 
 <br>
 
@@ -55,10 +55,10 @@ I am Liko Sonexarth, full stack software engineer with 8 years of experience. Re
 
 # Contact me.
 
-<a href="mailto:liko@5bsoftware.com" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-mail-48.png" alt="mail" /></a>
+<!-- <a href="mailto:liko@5bsoftware.com" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-mail-48.png" alt="mail" /></a>
 <a href="https://www.linkedin.com/in/likosonexarth/" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-linkedin-48.png" alt="linkedin" /></a>
 &nbsp;
 <a href="https://t.me/longines0924" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-telegram-app-48.png" alt="telegram" /></a>
 &nbsp;
-<a href="https://discordapp.com/users/871114801953267712" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-discord-bubble-48.png" alt="discord" /></a>
+<a href="https://discordapp.com/users/871114801953267712" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-discord-bubble-48.png" alt="discord" /></a> -->
 
