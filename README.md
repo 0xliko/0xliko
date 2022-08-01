@@ -53,7 +53,7 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 
 *****
 
-# Contact me.
+
 
 <!-- <a href="mailto:liko@5bsoftware.com" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-mail-48.png" alt="mail" /></a>
 <a href="https://www.linkedin.com/in/likosonexarth/" target="_blank" ><img src="https://raw.githubusercontent.com/jsgrowing315/jsgrowing315/main/assets/icons8-linkedin-48.png" alt="linkedin" /></a>
